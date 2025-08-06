@@ -1,11 +1,11 @@
 
-# 🐍 Flasker: A Simple Dockerized Flask App
+# Building a Flasker App Image & Pushing to Hub
 
 This project demonstrates how to containerize a basic Flask application and push the Docker image to Docker Hub.
 
 ---
 
-## 📦 What's Included?
+## What's Included?
 
 - Minimal Flask web app
 - Dockerfile for containerization
@@ -14,7 +14,7 @@ This project demonstrates how to containerize a basic Flask application and push
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Clone the App
 
@@ -62,7 +62,7 @@ http://localhost:5000
 
 ---
 
-## 🐳 Push to Docker Hub
+## Push to Docker Hub
 
 ### 1. Log in to Docker Hub
 
@@ -87,7 +87,7 @@ You can find the image here:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 flasker/
@@ -101,22 +101,7 @@ flasker/
 └── ...
 ```
 
----
-
-## 🧪 Optional: Docker Compose Support (Coming Soon)
-
-Want to add PostgreSQL or Redis? You can extend this with a `docker-compose.yml`.
-
----
-
-## 📄 License
-
-This project is for educational purposes.  
-Feel free to fork, extend, and contribute!
-
----
-
-## 👨‍💻 Author
+## ‍💻 Author
 
 Made by [@ibrahim-mintal](https://github.com/ibrahim-mintal)
 
